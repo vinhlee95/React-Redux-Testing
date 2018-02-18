@@ -12,7 +12,7 @@ describe('App', () => {
     const component = renderComponent(App);
 
     // To make an assertion about a target 
-    expect(component).to.contain('Hello world');
+    expect(component).to.contain('Hello again');
 
   });
 
